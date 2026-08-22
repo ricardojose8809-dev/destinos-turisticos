@@ -46,3 +46,11 @@ lugares/show.blade.php → HTML → Navegador`
 ## Datos de prueba
 
 Los datos están en `storage/app/data/lugares.json`.
+
+## Nota sobre datos de prueba
+
+Laravel ignora por defecto todo el contenido de `storage/app/` mediante
+`storage/app/.gitignore`. Para este proyecto se agregó una excepción
+(`!private/data/`) que permite versionar el archivo `lugares.json`,
+ya que funciona como la fuente de datos de la aplicación y debe estar
+disponible al clonar el repositorio.
