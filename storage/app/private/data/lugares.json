@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nombre": "Parque Nacional El Boquerón",
+    "departamento": "San Salvador",
+    "categoria": "Parque Nacional / Volcán",
+    "precio": "$1.00 nacionales | $2.00 extranjeros",
+    "datos_relevantes": [
+      "Se ubica en la cumbre del Volcán de San Salvador a unos 1,800 m s. n. m.",
+      "Su cráter principal posee 1.5 km de diámetro y abriga un cráter pequeño llamado Boqueroncito.",
+      "Sus pasarelas de madera cuentan con miradores con pisos de cristal para observar el abismo."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Parque Nacional Cerro Verde",
+    "departamento": "Santa Ana",
+    "categoria": "Parque Nacional / Bosque Nuboso",
+    "precio": "$1.50 nacionales | $3.00 extranjeros",
+    "datos_relevantes": [
+      "Es un volcán extinto cuya cima colapsada se cubrió de un frondoso bosque nuboso.",
+      "Es punto de partida obligatorio para ascender a los volcanes Izalco y Santa Ana.",
+      "Ofrece vistas panorámicas hacia el Lago de Coatepeque."
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Volcán de Santa Ana (Ilamatepec)",
+    "departamento": "Santa Ana",
+    "categoria": "Ecoturismo / Senderismo de Montaña",
+    "precio": "$3.00 nacionales | $6.00 extranjeros",
+    "datos_relevantes": [
+      "Es el volcán más alto de El Salvador, con 2,381 m s. n. m.",
+      "En su cumbre hay una laguna termal verde turquesa cargada de azufre.",
+      "El ascenso toma entre 1.5 y 2 horas."
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Volcán de Izalco",
+    "departamento": "Sonsonate",
+    "categoria": "Ecoturismo / Geología",
+    "precio": "$3.00 nacionales | $6.00 extranjeros",
+    "datos_relevantes": [
+      "Conocido como el 'Faro del Pacífico' por sus erupciones continuas en los siglos XIX y XX.",
+      "Es uno de los volcanes más jóvenes del continente, nacido en 1770.",
+      "Su cono de ceniza casi perfecto lo vuelve ideal para el descenso de aventura."
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Parque Nacional Montecristo Trifinio",
+    "departamento": "Santa Ana",
+    "categoria": "Reserva de la Biosfera / Bosque Nebuloso",
+    "precio": "$3.00 nacionales | $6.00 extranjeros",
+    "datos_relevantes": [
+      "Es el punto donde convergen las fronteras de El Salvador, Honduras y Guatemala ('El Trifinio').",
+      "Posee el 'Jardín de los Cien Años', santuario de orquídeas y helechos prehistóricos.",
+      "Es hábitat del quetzal y del tigrillo."
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Parque Natural El Imposible",
+    "departamento": "Ahuachapán",
+    "categoria": "Área Natural Protegida / Senderismo de aventura",
+    "precio": "$3.00 nacionales | $6.00 extranjeros",
+    "datos_relevantes": [
+      "Alberga la mayor biodiversidad del país, refugio del puma y el rey zopilote.",
+      "Su nombre recuerda un desfiladero donde arrieros perdían la vida transportando café.",
+      "Cuenta con miradores como 'El Ayeco'."
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Cerro El Pital",
+    "departamento": "Chalatenango",
+    "categoria": "Montaña / Camping",
+    "precio": "$3.00 por persona (propiedad privada)",
+    "datos_relevantes": [
+      "Es el punto más elevado de El Salvador, a 2,730 m s. n. m.",
+      "Registra temperaturas que llegan a 0 °C en época seca.",
+      "Predominan bosques de pino y cultivos de fresa."
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Ecoparque El Espino",
+    "departamento": "San Salvador / La Libertad",
+    "categoria": "Ecoturismo / Ciclismo de Montaña",
+    "precio": "$1.50 por persona",
+    "datos_relevantes": [
+      "Ubicado en una finca cafetalera en las faldas del Volcán de San Salvador.",
+      "Aloja el mirador 'Los Vientos'.",
+      "Cuenta con pistas para ciclismo de montaña."
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Parque Arqueológico Joya de Cerén",
+    "departamento": "La Libertad",
+    "categoria": "Sitio Arqueológico / Patrimonio Mundial",
+    "precio": "$1.00 nacionales | $3.00 centroamericanos | $10.00 extranjeros",
+    "datos_relevantes": [
+      "Conocida como la 'Pompeya de América', sepultada por el volcán Loma Caldera hacia el 600 d.C.",
+      "Muestra la vida cotidiana agrícola maya, no templos ceremoniales.",
+      "Único sitio de El Salvador declarado Patrimonio de la Humanidad por la UNESCO."
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Parque Arqueológico Tazumal",
+    "departamento": "Santa Ana",
+    "categoria": "Sitio Arqueológico / Civilización Maya",
+    "precio": "$1.00 nacionales | $3.00 centroamericanos | $5.00 extranjeros",
+    "datos_relevantes": [
+      "Alberga la pirámide maya más alta y mejor conservada del país.",
+      "Se descubrió la 'Estela de Tazumal' y evidencia de comercio con la cultura Tolteca.",
+      "Está en el centro urbano de Chalchuapa."
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Parque Arqueológico San Andrés",
+    "departamento": "La Libertad",
+    "categoria": "Sitio Arqueológico / Centro Ceremonial",
+    "precio": "Tarifas gubernamentales estándar",
+    "datos_relevantes": [
+      "Fue una capital política maya del período Clásico Tardío con una gran acrópolis.",
+      "Alberga ruinas de un obraje de añil colonial sepultado por el volcán Playón en 1658.",
+      "Se ubica en el Valle de Zapotitán."
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Parque Arqueológico Cihuatán",
+    "departamento": "San Salvador",
+    "categoria": "Sitio Arqueológico / Ciudad Postclásica",
+    "precio": "Tarifas gubernamentales estándar",
+    "datos_relevantes": [
+      "Uno de los sitios arqueológicos más extensos, con cerca de 3 km².",
+      "Urbe fortificada con influencia tolteca tras el colapso maya.",
+      "Cuenta con templos escalonados y dos canchas de juego de pelota."
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Palacio Nacional de El Salvador",
+    "departamento": "San Salvador",
+    "categoria": "Arquitectura / Monumento Nacional",
+    "precio": "Variable (aprox. $1.00 - $3.00)",
+    "datos_relevantes": [
+      "Edificio de inicios del siglo XX con mármol y bronce importados de Europa.",
+      "Cuenta con cuatro salones temáticos: Azul, Rosado, Amarillo y Rojo.",
+      "Tiene un patio interior ajardinado con columnas corintias."
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Teatro Nacional de San Salvador",
+    "departamento": "San Salvador",
+    "categoria": "Arquitectura / Centro de Artes Escénicas",
+    "precio": "Variable (aprox. $1.00 nacionales)",
+    "datos_relevantes": [
+      "Es el teatro en funciones más antiguo de Centroamérica, inaugurado en 1917.",
+      "Combina renacimiento francés, art nouveau y detalles neoclásicos.",
+      "Su Gran Sala tiene una cúpula pintada por Carlos Cañas."
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Suchitoto",
+    "departamento": "Cuscatlán",
+    "categoria": "Ciudad Colonial / Turismo Cultural",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Reconocida como 'Capital Cultural' por su arquitectura colonial.",
+      "Destaca la Iglesia de Santa Lucía.",
+      "Es epicentro del rescate del añil con talleres artesanales."
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Concepción de Ataco",
+    "departamento": "Ahuachapán",
+    "categoria": "Pueblo Pintoresco / Ruta de las Flores",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Calles empedradas y coloridos murales artísticos.",
+      "Clima fresco de montaña en la cordillera de Apaneca-Ilamatepec.",
+      "Famoso por su tradición cafetalera y catas gourmet."
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Juayúa",
+    "departamento": "Sonsonate",
+    "categoria": "Pueblo Pintoresco / Ruta de las Flores",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Famoso por su festival gastronómico internacional cada fin de semana.",
+      "Alberga la imagen del Cristo Negro en la Iglesia de Santa Lucía.",
+      "Punto de inicio para visitar 'Los Chorros de la Calera'."
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "La Palma",
+    "departamento": "Chalatenango",
+    "categoria": "Pueblo Artesanal / Cultura",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Cuna de artesanías en madera estilo naíf, impulsadas por Fernando Llort.",
+      "Cooperativas pintan semillas de copinol y telas.",
+      "Sede histórica de los primeros diálogos de paz (1984)."
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Lago de Coatepeque",
+    "departamento": "Santa Ana",
+    "categoria": "Lago Volcánico / Recreación",
+    "precio": "Público (restaurantes varían)",
+    "datos_relevantes": [
+      "Caldera volcánica reconocida mundialmente por su belleza.",
+      "Cambia cíclicamente a color turquesa por algas y minerales.",
+      "Ideal para buceo, kayak y moto acuática."
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Lago de Ilopango",
+    "departamento": "San Salvador / Cuscatlán / La Paz",
+    "categoria": "Lago Volcánico / Buceo",
+    "precio": "$1.50 (Turicentro Apulo)",
+    "datos_relevantes": [
+      "Mayor cuerpo de agua natural, originado por una erupción del siglo V.",
+      "Formaciones rocosas 'Las Islas Quemadas' para buceo.",
+      "Presenta actividad hidrotermal con fuentes de agua caliente."
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Laguna de Alegría",
+    "departamento": "Usulután",
+    "categoria": "Laguna Cráter / Naturaleza",
+    "precio": "$1.00",
+    "datos_relevantes": [
+      "Situada en el cráter del Volcán Tecapa, apodada 'Esmeralda de América'.",
+      "Aguas ricas en azufre con tonos amarillo-verdosos.",
+      "Rodeada de cafetales y vegetación volcánica."
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Parque Recreativo Los Chorros",
+    "departamento": "La Libertad",
+    "categoria": "Balneario Natural / Turicentro",
+    "precio": "$1.50 nacionales | $3.00 extranjeros",
+    "datos_relevantes": [
+      "Piscinas alimentadas por filtraciones naturales en un cañón.",
+      "Arquitectura histórica de piedra remodelada tras terremotos de 2001.",
+      "Clima fresco por su ubicación geográfica."
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Playa El Tunco",
+    "departamento": "La Libertad",
+    "categoria": "Playa / Surf",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Destino icónico de Surf City con oleaje consistente.",
+      "Su nombre viene de una formación rocosa que asemeja un cerdo (tunco).",
+      "Ambiente vibrante, popular entre surfistas internacionales."
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Playa El Zonte",
+    "departamento": "La Libertad",
+    "categoria": "Playa / Surf / Innovación",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Conocida como 'Bitcoin Beach', cuna de la economía local basada en cripto.",
+      "Ambiente bohemio, más tranquilo que El Tunco.",
+      "Desembocadura de río ideal para caminatas."
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Playa Las Flores",
+    "departamento": "San Miguel",
+    "categoria": "Playa / Surf",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Destacada por sus largas olas derechas (point break).",
+      "Arena fina grisácea rodeada de acantilados.",
+      "Cuenta con resorts ecológicos de alto nivel."
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Playa Costa del Sol",
+    "departamento": "La Paz",
+    "categoria": "Playa / Familiar",
+    "precio": "Acceso libre (turicentro $1.50)",
+    "datos_relevantes": [
+      "Franja costera más extensa, con hoteles todo incluido.",
+      "Cerca de la Bahía de Jiquilisco, ideal para navegación.",
+      "Aguas tranquilas ideales para familias."
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Bahía de Jiquilisco",
+    "departamento": "Usulután",
+    "categoria": "Humedal / Reserva",
+    "precio": "Tours en lancha ($30-$60)",
+    "datos_relevantes": [
+      "Mayor ecosistema de manglares, Sitio Ramsar de importancia internacional.",
+      "Principal sitio de anidación de tortuga carey del Pacífico americano.",
+      "Alberga islas como La Pirraya y Espíritu Santo."
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Playas de San Marcelino y Los Blancos",
+    "departamento": "La Paz",
+    "categoria": "Playa / Deporte",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Famosas por torneos de fútbol playa en arena volcánica.",
+      "Oferta gastronómica de mariscos frescos.",
+      "Cercanas al Aeropuerto Internacional."
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Playa El Cuco",
+    "departamento": "San Miguel",
+    "categoria": "Playa / Familiar",
+    "precio": "Acceso libre",
+    "datos_relevantes": [
+      "Aguas tranquilas y someras, ideal para niños.",
+      "Arena negra extensa para deportes playeros.",
+      "Punto de partida para explorar el Golfo de Fonseca."
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Golfo de Fonseca e Isla Meanguera",
+    "departamento": "La Unión",
+    "categoria": "Islas / Turismo",
+    "precio": "Lancha ($3-$5)",
+    "datos_relevantes": [
+      "Archipiélago compartido por El Salvador, Honduras y Nicaragua.",
+      "Isla Meanguera es el único municipio salvadoreño separado del continente.",
+      "Cuenta con volcanes extintos como el de la Isla Zacatillo."
+    ]
+  }
+]
